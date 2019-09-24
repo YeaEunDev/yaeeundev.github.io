@@ -1,6 +1,6 @@
 ---
 title: "자바스크립트(JavaScript)"
-date: 2019-09-24 22:34:00 - 0400
+date: 2019-09-24 22:53:00 - 0400
 categories: update JavaScript
 ---
 
