@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Blog!"
+title: "자바스크립트(JavaScript)"
 date: 2019-08-27 23:50:00 - 0400
 categories: update JavaScript
 ---
